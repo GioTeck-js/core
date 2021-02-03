@@ -1,0 +1,2 @@
+# core
+Core del bot
